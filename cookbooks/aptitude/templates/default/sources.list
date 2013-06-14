@@ -1,0 +1,5 @@
+deb http://mirrors.corp.anjuke.com/ubuntu precise main multiverse restricted universe
+deb http://mirrors.corp.anjuke.com/ubuntu precise-updates main multiverse restricted universe
+deb http://mirrors.corp.anjuke.com/ubuntu precise-proposed main multiverse restricted universe
+deb http://mirrors.corp.anjuke.com/ubuntu precise-backports main multiverse restricted universe
+deb http://mirrors.corp.anjuke.com/ubuntu precise-security  main multiverse restricted universe
